@@ -7,3 +7,4 @@ execute if entity @s[advancements={al_advancements:diamond/diamond_050=false}] i
 execute if entity @s[advancements={al_advancements:diamond/diamond_100=false}] if score @s al_diamond matches 100.. run advancement grant @s only al_advancements:diamond/diamond_100
 execute if entity @s[advancements={al_advancements:diamond/diamond_200=false}] if score @s al_diamond matches 200.. run advancement grant @s only al_advancements:diamond/diamond_200
 execute if entity @s[advancements={al_advancements:diamond/diamond_500=false}] if score @s al_diamond matches 500.. run advancement grant @s only al_advancements:diamond/diamond_500
+scoreboard players set @s al_diamond 0

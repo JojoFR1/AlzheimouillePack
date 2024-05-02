@@ -1,22 +1,18 @@
 {
     "display": {
-        "icon": {
-            "item": "minecraft:clock"
-        },
-        "title": "Un jour entier !",
-        "description": "Jouez une journée entière.",
+        "icon": { "item": "minecraft:clock" },
+        "title": { "translate": "al_adv.playtime_24hour.title" },
+        "description": { "translate": "al_adv.playtime_24hour.description" },
+        "frame": "challenge",
+
         "announce_to_chat": true,
         "show_toast": true,
-        "hidden": false,
-        "frame": "challenge"
+        "hidden": false
     },
     "parent": "al_advancements:playtime/playtime_1600",
     "criteria": {
         "unlock": {
             "trigger": "minecraft:impossible"
         }
-    },
-    "requirements": [
-        ["unlock"]
-    ]
+    }
 }

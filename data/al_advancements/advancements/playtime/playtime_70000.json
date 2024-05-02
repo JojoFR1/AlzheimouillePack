@@ -1,10 +1,8 @@
 {
     "display": {
-        "icon": {
-            "item": "minecraft:clock"
-        },
-        "title": "Ça commence à sentir mauvais",
-        "description": "Jouez une semaine.",
+        "icon": { "item": "minecraft:clock" },
+        "title": { "translate": "al_adv.playtime_7day.title" },
+        "description": { "translate": "al_adv.playtime_7day.description" },
         "announce_to_chat": true,
         "show_toast": true,
         "hidden": false,

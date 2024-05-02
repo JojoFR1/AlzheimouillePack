@@ -1,22 +1,18 @@
 {
     "display": {
-        "icon": {
-            "item": "minecraft:clock"
-        },
-        "title": "Touche de l'herbe !",
-        "description": "Jouez trois jours.",
+        "icon": { "item": "minecraft:clock" },
+        "title": { "translate": "al_adv.playtime_72hour.title" },
+        "description": { "translate": "al_adv.playtime_72hour.description" },
+        "frame": "challenge",
+        
         "announce_to_chat": true,
         "show_toast": true,
-        "hidden": false,
-        "frame": "challenge"
+        "hidden": false
     },
     "parent": "al_advancements:playtime/playtime_4800",
     "criteria": {
         "unlock": {
             "trigger": "minecraft:impossible"
         }
-    },
-    "requirements": [
-        ["unlock"]
-    ]
+    }
 }
