@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "item": "minecraft:stone_sword" },
+        "title": { "translate": "al_adv.kill_05.title" },
+        "description": { "translate": "al_adv.kill_05.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:kill/kill_03",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

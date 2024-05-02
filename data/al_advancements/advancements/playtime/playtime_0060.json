@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:clock"
+        },
+        "title": "Tout a commencé il y a une heure",
+        "description": "Jouez une heure.",
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false,
+        "frame": "task"
+    },
+    "parent": "al_advancements:playtime/playtime_0030",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        ["unlock"]
+    ]
+}

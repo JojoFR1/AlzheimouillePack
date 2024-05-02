@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:pink_dye"
+        },
+        "title": {
+            "bold": true,
+            "color": "dark_blue",
+            "text": "Alzheimouille Achievements"
+        },
+        "description": "",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "frame": "goal",
+        "background": "minecraft:textures/block/blackstone.png"
+    },
+    "criteria": {
+        "default": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

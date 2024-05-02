@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond_block"
+        },
+        "title": "Stonks",
+        "description": "Minez 500 minerais de diamant.",
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false,
+        "frame": "goal"
+    },
+    "parent": "al_advancements:diamond/diamond_200",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        ["unlock"]
+    ]
+}

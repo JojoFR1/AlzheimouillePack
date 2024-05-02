@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:clock"
+        },
+        "title": "Un bon début",
+        "description": "Jouez trente minutes.",
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false,
+        "frame": "task"
+    },
+    "parent": "al_advancements:playtime/playtime_0001",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        ["unlock"]
+    ]
+}

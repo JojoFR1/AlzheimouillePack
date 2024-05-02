@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": { "item": "minecraft:skeleton_skull" },
+        "title": { "translate": "al_adv.death_100.title" },
+        "description": { "translate": "al_adv.death_100.description" },
+        "frame": "challenge",
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:death/death_050",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

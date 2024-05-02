@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:clock"
+        },
+        "title": "Une journée entière",
+        "description": "Jouez seize heures.",
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false,
+        "frame": "task"
+    },
+    "parent": "al_advancements:playtime/playtime_0800",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        ["unlock"]
+    ]
+}

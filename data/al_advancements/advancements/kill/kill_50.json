@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "item": "minecraft:netherite_sword" },
+        "title": { "translate": "al_adv.kill_50.title" },
+        "description": { "translate": "al_adv.kill_50.description" },
+        "frame": "goal",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:kill/kill_40",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "item": "minecraft:clock" },
+        "title": "Le commencement",
+        "description": "Jouez une minute.",
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:root",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
