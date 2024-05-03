@@ -1,0 +1,1 @@
+advancement grant @s only al_advancements:move/feet/feet_root al_adv.move.feet.swim.complete

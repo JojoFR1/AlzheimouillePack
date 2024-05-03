@@ -1,8 +1,8 @@
 {
     "display": {
         "icon": { "item": "minecraft:wooden_sword" },
-        "title": { "translate": "al_adv.kill_01.title" },
-        "description": { "translate": "al_adv.kill_01.description" },
+        "title": { "translate": "al_adv.kill.kill_01.title" },
+        "description": { "translate": "al_adv.kill.kill_01.description" },
         "frame": "task",
 
         "announce_to_chat": true,

@@ -1,19 +1,18 @@
 {
     "display": {
-        "icon": {
-            "item": "minecraft:pink_dye"
-        },
+        "icon": { "item": "minecraft:pink_dye" },
         "title": {
-            "bold": true,
-            "color": "dark_blue",
-            "text": "Alzheimouille Achievements"
+            "translate": "al_adv.root.title",
+            "color": "blue",
+            "bold": true
         },
-        "description": "",
+        "description": { "translate": "al_adv.root.description" },
+        "frame": "goal",
+        "background": "minecraft:textures/block/blackstone.png",
+
         "show_toast": false,
         "announce_to_chat": false,
-        "hidden": false,
-        "frame": "goal",
-        "background": "minecraft:textures/block/blackstone.png"
+        "hidden": false
     },
     "criteria": {
         "default": {

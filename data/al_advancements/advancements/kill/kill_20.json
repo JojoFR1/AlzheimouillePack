@@ -1,8 +1,8 @@
 {
     "display": {
         "icon": { "item": "minecraft:iron_sword" },
-        "title": { "translate": "al_adv.kill_20.title" },
-        "description": { "translate": "al_adv.kill_20.description" },
+        "title": { "translate": "al_adv.kill.kill_20.title" },
+        "description": { "translate": "al_adv.kill.kill_20.description" },
         "frame": "task",
 
         "announce_to_chat": true,

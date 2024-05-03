@@ -1,8 +1,8 @@
 {
     "display": {
         "icon": { "item": "minecraft:clock" },
-        "title": { "translate": "al_adv.playtime_24hour.title" },
-        "description": { "translate": "al_adv.playtime_24hour.description" },
+        "title": { "translate": "al_adv.playtime.playtime_24hour.title" },
+        "description": { "translate": "al_adv.playtime.playtime_24hour.description" },
         "frame": "challenge",
 
         "announce_to_chat": true,

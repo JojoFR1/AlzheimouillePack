@@ -1,9 +1,10 @@
 {
     "display": {
         "icon": { "item": "minecraft:skeleton_skull" },
-        "title": { "translate": "al_adv.death_015.title" },
-        "description": { "translate": "al_adv.death_015.description" },
+        "title": { "translate": "al_adv.death.death_015.title" },
+        "description": { "translate": "al_adv.death.death_015.description" },
         "frame": "task",
+        
         "announce_to_chat": true,
         "show_toast": true,
         "hidden": false

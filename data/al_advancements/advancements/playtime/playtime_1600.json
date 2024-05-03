@@ -1,8 +1,8 @@
 {
     "display": {
         "icon": { "item": "minecraft:clock" },
-        "title": { "translate": "al_adv.playtime_16hour.title" },
-        "description": { "translate": "al_adv.playtime_16hour.description" },
+        "title": { "translate": "al_adv.playtime.playtime_16hour.title" },
+        "description": { "translate": "al_adv.playtime.playtime_16hour.description" },
         "frame": "task",
 
         "announce_to_chat": true,

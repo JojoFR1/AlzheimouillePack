@@ -1,9 +1,10 @@
 {
     "display": {
         "icon": { "item": "minecraft:diamond" },
-        "title": { "translate": "al_adv.diamond_100.title" },
-        "description": { "translate": "al_adv.diamond_100.description" },
+        "title": { "translate": "al_adv.diamond.diamond_100.title" },
+        "description": { "translate": "al_adv.diamond.diamond_100.description" },
         "frame": "challenge",
+        
         "announce_to_chat": true,
         "show_toast": true,
         "hidden": false

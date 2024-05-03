@@ -1,8 +1,8 @@
 {
     "display": {
         "icon": { "item": "minecraft:netherite_sword" },
-        "title": { "translate": "al_adv.kill_50.title" },
-        "description": { "translate": "al_adv.kill_50.description" },
+        "title": { "translate": "al_adv.kill.kill_50.title" },
+        "description": { "translate": "al_adv.kill.kill_50.description" },
         "frame": "goal",
 
         "announce_to_chat": true,
