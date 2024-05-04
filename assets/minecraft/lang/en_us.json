@@ -1,6 +1,6 @@
 {
   "al_adv.root.title": "Alzheimouille Advencements",
-  "al_adv.root.descritpion": "",
+  "al_adv.root.description": "",
 
   "al_adv.death.death_001.title": "Pas d'hardcore pour toi",
   "al_adv.death.death_001.description": "Mourrez une fois.",
@@ -76,10 +76,10 @@
 
    
   "al_adv.move.move_root.title": "Légende Olympique",
-  "al_adv.move.move_root.descritpion": "Terminez les trois championats de mouvements.",
+  "al_adv.move.move_root.descrtption": "Terminez les trois championats de mouvements.",
 
   "al_adv.move.feet.feet_root.title": "Champion des pieds",
-  "al_adv.move.feet.feet_root.descritpion": "Completez les cinq épreuves des pieds.",
+  "al_adv.move.feet.feet_root.description": "Completez les cinq épreuves des pieds.",
 
   "al_adv.move.feet.crouch_100m.title": "Premier ???",
   "al_adv.move.feet.crouch_100m.description": "Marchez accroupi 100 mètres",

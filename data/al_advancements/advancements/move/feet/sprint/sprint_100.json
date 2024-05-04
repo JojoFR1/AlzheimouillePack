@@ -9,7 +9,7 @@
         "show_toast": true,
         "hidden": false
     },
-    "parent": "al_advancements:move/feet/sprint/sprint_1",
+    "parent": "al_advancements:move/feet/feet_root",
     "criteria": {
         "unlock": {
             "trigger": "minecraft:impossible"

@@ -5,7 +5,6 @@ scoreboard objectives add al_diamond_stone minecraft.mined:diamond_ore
 scoreboard objectives add al_diamond_deepslate minecraft.mined:deepslate_diamond_ore
 scoreboard objectives add al_diamond dummy
 
-
 # scoreboard objectives add al_move_pig minecraft.custom:pig_one_cm
 # scoreboard objectives add al_move_boat minecraft.custom:boat_one_cm
 # scoreboard objectives add al_move_horse minecraft.custom:horse_one_cm
@@ -29,4 +28,4 @@ scoreboard objectives add al_move_jump minecraft.custom:jump
 
 schedule function al_advancements:check 1s
 
-tellraw @a ["", {"text": "Alzheimouille ", "bold":true, "color":"blue"}, {"text":"v1.5.0 by "}, {"text":"J","color":"#056608"},{"text":"o","color":"#147917"},{"text":"j","color":"#248D27"},{"text":"o","color":"#33A036"}]
+tellraw @a ["", {"text": "Alzheimouille ", "bold":true, "color":"blue"}, {"text":"v1.5.0-beta.1 by "}, {"text":"J","color":"#056608"},{"text":"o","color":"#147917"},{"text":"j","color":"#248D27"},{"text":"o","color":"#33A036"}]

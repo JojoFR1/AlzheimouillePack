@@ -3,7 +3,7 @@
         "icon": { "item": "minecraft:golden_boots" },
         "title": { "translate": "al_adv.move.feet.sprint_50km.title" },
         "description": { "translate": "al_adv.move.feet.sprint_50km.description" },
-        "frame": "task",
+        "frame": "challenge",
 
         "announce_to_chat": true,
         "show_toast": true,

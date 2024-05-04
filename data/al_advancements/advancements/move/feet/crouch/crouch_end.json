@@ -4,5 +4,5 @@
             "trigger": "minecraft:location"
         }
     },
-    "parent": "al_advancements:move/feet/crouch/crouch_5000"
+    "parent": "al_advancements:move/feet/crouch/crouch_10000"
 }
