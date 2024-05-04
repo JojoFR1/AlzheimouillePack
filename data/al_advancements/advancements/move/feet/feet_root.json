@@ -5,8 +5,8 @@
         "description": { "translate": "al_adv.move.feet.feet_root.description" },
         "frame": "challenge",
 
-        "show_toast": false,
-        "announce_to_chat": false,
+        "show_toast": true,
+        "announce_to_chat": true,
         "hidden": false
     },
     "parent": "al_advancements:move/move_root",

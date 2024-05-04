@@ -9,7 +9,7 @@
         "show_toast": true,
         "hidden": false
     },
-    "parent": "al_advancements:move/feet/jump/jump_5000",
+    "parent": "al_advancements:move/feet/jump/jump_1000",
     "criteria": {
         "unlock": {
             "trigger": "minecraft:impossible"
