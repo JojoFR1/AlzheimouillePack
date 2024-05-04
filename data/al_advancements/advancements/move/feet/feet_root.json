@@ -11,17 +11,23 @@
     },
     "parent": "al_advancements:move/move_root",
     "criteria": {
-        "al_adv.move.feet.crouch.complete": {
+        "crouch.complete": {
             "trigger": "minecraft:impossible"
         },
-        "al_adv.move.feet.sprint.complete": {
+        "jump.complete": {
             "trigger": "minecraft:impossible"
         },
-        "al_adv.move.feet.swim.complete": {
+        "sprint.complete": {
             "trigger": "minecraft:impossible"
         },
-        "al_adv.move.feet.walk.complete": {
+        "swim.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "walk.complete": {
             "trigger": "minecraft:impossible"
         }
+    },
+    "rewards": {
+        "function": "al_advancements:events/feet_complete"
     }
 }

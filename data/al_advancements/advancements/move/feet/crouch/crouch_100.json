@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "item": "minecraft:leather_boots" },
+        "title": { "translate": "al_adv.move.feet.crouch_100m.title" },
+        "description": { "translate": "al_adv.move.feet.crouch_100m.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/feet/crouch/crouch_1",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

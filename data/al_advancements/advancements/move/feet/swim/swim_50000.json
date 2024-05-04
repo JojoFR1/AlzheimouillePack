@@ -1,15 +1,15 @@
 {
     "display": {
         "icon": { "item": "minecraft:iron_boots" },
-        "title": { "translate": "al_adv.move.feet.swim_100m.title" },
-        "description": { "translate": "al_adv.move.feet.swim_100m.description" },
-        "frame": "task",
+        "title": { "translate": "al_adv.move.feet.swim_50km.title" },
+        "description": { "translate": "al_adv.move.feet.swim_50km.description" },
+        "frame": "challenge",
 
         "announce_to_chat": true,
         "show_toast": true,
         "hidden": false
     },
-    "parent": "al_advancements:move/feet/swim/swim_1",
+    "parent": "al_advancements:move/feet/swim/swim_25000",
     "criteria": {
         "unlock": {
             "trigger": "minecraft:impossible"

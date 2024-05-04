@@ -1,0 +1,9 @@
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_100=false}, scores={al_move_sprint = 10000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_100
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_1000=false}, scores={al_move_sprint = 100000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_1000
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_5000=false}, scores={al_move_sprint = 500000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_5000
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_10000=false}, scores={al_move_sprint = 1000000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_10000
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_25000=false}, scores={al_move_sprint = 2500000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_25000
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_50000=false}, scores={al_move_sprint = 5000000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_50000
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_100000=false}, scores={al_move_sprint = 10000000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_100000
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_250000=false}, scores={al_move_sprint = 25000000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_250000
+execute if entity @s[advancements={al_advancements:move/feet/sprint/sprint_500000=false}, scores={al_move_sprint = 50000000..}] run advancement grant @s only al_advancements:move/feet/sprint/sprint_500000

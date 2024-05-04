@@ -6,16 +6,15 @@ scoreboard objectives add al_diamond_deepslate minecraft.mined:deepslate_diamond
 scoreboard objectives add al_diamond dummy
 
 
-scoreboard objectives add al_move_pig minecraft.custom:pig_one_cm
-scoreboard objectives add al_move_boat minecraft.custom:boat_one_cm
-scoreboard objectives add al_move_horse minecraft.custom:horse_one_cm
-scoreboard objectives add al_move_minecart minecraft.custom:minecart_one_cm
-scoreboard objectives add al_move_strider minecraft.custom:strider_one_cm
+# scoreboard objectives add al_move_pig minecraft.custom:pig_one_cm
+# scoreboard objectives add al_move_boat minecraft.custom:boat_one_cm
+# scoreboard objectives add al_move_horse minecraft.custom:horse_one_cm
+# scoreboard objectives add al_move_minecart minecraft.custom:minecart_one_cm
+# scoreboard objectives add al_move_strider minecraft.custom:strider_one_cm
 
-scoreboard objectives add al_move_aviate minecraft.custom:aviate_one_cm
-
-scoreboard objectives add al_move_fall minecraft.custom:fall_one_cm
-scoreboard objectives add al_move_climb minecraft.custom:climb_one_cm
+# scoreboard objectives add al_move_aviate minecraft.custom:aviate_one_cm
+# scoreboard objectives add al_move_fall minecraft.custom:fall_one_cm
+# scoreboard objectives add al_move_climb minecraft.custom:climb_one_cm
 
 scoreboard objectives add al_move_walk minecraft.custom:walk_one_cm
 scoreboard objectives add al_move_walk_on_water minecraft.custom:walk_on_water_one_cm
@@ -26,6 +25,7 @@ scoreboard objectives add al_move_crouch minecraft.custom:crouch_one_cm
 scoreboard objectives add al_move_sprint minecraft.custom:sprint_one_cm
 scoreboard objectives add al_move_swim minecraft.custom:swim_one_cm
 
+scoreboard objectives add al_move_jump minecraft.custom:jump
 
 schedule function al_advancements:check 1s
 

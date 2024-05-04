@@ -11,13 +11,13 @@
     },
     "parent": "al_advancements:root",
     "criteria": {
-        "al_adv.move.feet.complete": {
+        "feet.complete": {
             "trigger": "minecraft:impossible"
         },
-        "al_adv.move.mount.complete": {
+        "mount.complete": {
             "trigger": "minecraft:impossible"
         },
-        "al_adv.move.other.complete": {
+        "other.complete": {
             "trigger": "minecraft:impossible"
         }
     }

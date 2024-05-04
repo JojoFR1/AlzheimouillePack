@@ -4,5 +4,5 @@
             "trigger": "minecraft:location"
         }
     },
-    "parent": "al_advancements:move/feet/swim/swim_100000"
+    "parent": "al_advancements:move/feet/walk/walk_100000"
 }
