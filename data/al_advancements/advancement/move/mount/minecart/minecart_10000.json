@@ -9,7 +9,7 @@
         "show_toast": true,
         "hidden": false
     },
-    "parent": "al_advancements:move/mount/minecart/minecart_10000",
+    "parent": "al_advancements:move/mount/minecart/minecart_5000",
     "criteria": {
         "unlock": {
             "trigger": "minecraft:impossible"

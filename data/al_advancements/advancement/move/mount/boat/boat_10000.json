@@ -9,7 +9,7 @@
         "show_toast": true,
         "hidden": false
     },
-    "parent": "al_advancements:move/mount/boat/boat_1000",
+    "parent": "al_advancements:move/mount/boat/boat_5000",
     "criteria": {
         "unlock": {
             "trigger": "minecraft:impossible"
