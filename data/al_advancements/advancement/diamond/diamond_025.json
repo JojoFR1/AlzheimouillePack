@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:diamond" },
+        "title": { "translate": "al_adv.diamond.diamond_025.title" },
+        "description": { "translate": "al_adv.diamond.diamond_025.description" },
+        "frame": "task",
+        
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:diamond/diamond_010",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

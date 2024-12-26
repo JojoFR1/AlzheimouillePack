@@ -1,2 +1,2 @@
-*.zip
-rename.ps1
+build/
+spyglass.json

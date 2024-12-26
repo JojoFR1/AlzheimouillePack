@@ -1,0 +1,33 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:netherite_boots" },
+        "title": { "translate": "al_adv.move.feet.feet_root.title" },
+        "description": { "translate": "al_adv.move.feet.feet_root.description" },
+        "frame": "challenge",
+
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/move_root",
+    "criteria": {
+        "crouch.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "jump.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "sprint.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "swim.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "walk.complete": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "al_advancements:events/feet_complete"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:clock" },
+        "title": { "translate": "al_adv.playtime.playtime_14day.title" },
+        "description": { "translate": "al_adv.playtime.playtime_14day.description" },
+        "frame": "goal",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:playtime/playtime_70000",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

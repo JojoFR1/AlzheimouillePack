@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:diamond_boots" },
+        "title": { "translate": "al_adv.move.feet.walk_5km.title" },
+        "description": { "translate": "al_adv.move.feet.walk_5km.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/feet/walk/walk_1000",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

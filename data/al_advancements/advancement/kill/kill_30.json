@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:diamond_sword" },
+        "title": { "translate": "al_adv.kill.kill_30.title" },
+        "description": { "translate": "al_adv.kill.kill_30.description" },
+        "frame": "challenge",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:kill/kill_20",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

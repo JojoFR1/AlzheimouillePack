@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:rabbit_foot" },
+        "title": { "translate": "al_adv.move.feet.jump_1000.title" },
+        "description": { "translate": "al_adv.move.feet.jump_1000.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/feet/jump/jump_100",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
