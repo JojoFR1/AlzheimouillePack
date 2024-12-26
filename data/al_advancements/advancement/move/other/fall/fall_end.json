@@ -1,0 +1,8 @@
+{
+    "criteria": {
+        "end": {
+            "trigger": "minecraft:location"
+        }
+    },
+    "parent": "al_advancements:move/other/fall/fall_5000"
+}

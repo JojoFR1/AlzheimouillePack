@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:twisting_vines" },
+        "title": { "translate": "al_adv.move.other.climb_10m.title" },
+        "description": { "translate": "al_adv.move.other.climb_10m.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/other/other_root",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

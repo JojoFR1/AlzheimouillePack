@@ -1,0 +1,8 @@
+{
+    "criteria": {
+        "end": {
+            "trigger": "minecraft:location"
+        }
+    },
+    "parent": "al_advancements:move/other/aviate/aviate_250000"
+}

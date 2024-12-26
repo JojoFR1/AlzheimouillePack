@@ -1,6 +1,6 @@
 @echo off
 
-set VER="1.6.0"
+set VER="1.6.1"
 
 if exist "build" rmdir /S /Q "build"
 mkdir "build"

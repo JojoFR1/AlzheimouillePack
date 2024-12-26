@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:wind_charge" },
+        "title": { "translate": "al_adv.move.other.fall_1km.title" },
+        "description": { "translate": "al_adv.move.other.fall_1km.description" },
+        "frame": "challenge",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/other/fall/fall_500",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

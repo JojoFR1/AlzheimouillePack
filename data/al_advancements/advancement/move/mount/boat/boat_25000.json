@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:dark_oak_boat" },
+        "title": { "translate": "al_adv.move.mount.boat_25km.title" },
+        "description": { "translate": "al_adv.move.mount.boat_25km.description" },
+        "frame": "challenge",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/mount/boat/boat_10000",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

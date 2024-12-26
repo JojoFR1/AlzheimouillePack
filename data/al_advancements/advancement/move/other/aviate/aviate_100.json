@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:elytra" },
+        "title": { "translate": "al_adv.move.other.aviate_100m.title" },
+        "description": { "translate": "al_adv.move.other.aviate_100m.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/other/other_root",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

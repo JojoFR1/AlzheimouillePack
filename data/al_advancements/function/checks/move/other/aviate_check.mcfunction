@@ -1,0 +1,8 @@
+execute if entity @s[advancements={al_advancements:move/other/aviate/aviate_100=false}, scores={al_move_aviate = 10000..}] run advancement grant @s only al_advancements:move/other/aviate/aviate_100
+execute if entity @s[advancements={al_advancements:move/other/aviate/aviate_1000=false}, scores={al_move_aviate = 100000..}] run advancement grant @s only al_advancements:move/other/aviate/aviate_1000
+execute if entity @s[advancements={al_advancements:move/other/aviate/aviate_5000=false}, scores={al_move_aviate = 500000..}] run advancement grant @s only al_advancements:move/other/aviate/aviate_5000
+execute if entity @s[advancements={al_advancements:move/other/aviate/aviate_10000=false}, scores={al_move_aviate = 1000000..}] run advancement grant @s only al_advancements:move/other/aviate/aviate_10000
+execute if entity @s[advancements={al_advancements:move/other/aviate/aviate_25000=false}, scores={al_move_aviate = 2500000..}] run advancement grant @s only al_advancements:move/other/aviate/aviate_25000
+execute if entity @s[advancements={al_advancements:move/other/aviate/aviate_50000=false}, scores={al_move_aviate = 5000000..}] run advancement grant @s only al_advancements:move/other/aviate/aviate_50000
+execute if entity @s[advancements={al_advancements:move/other/aviate/aviate_100000=false}, scores={al_move_aviate = 10000000..}] run advancement grant @s only al_advancements:move/other/aviate/aviate_100000
+execute if entity @s[advancements={al_advancements:move/other/aviate/aviate_250000=false}, scores={al_move_aviate = 25000000..}] run advancement grant @s only al_advancements:move/other/aviate/aviate_250000

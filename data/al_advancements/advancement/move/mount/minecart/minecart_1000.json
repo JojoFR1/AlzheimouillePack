@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:minecart" },
+        "title": { "translate": "al_adv.move.mount.minecart_1km.title" },
+        "description": { "translate": "al_adv.move.mount.minecart_1km.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/mount/minecart/minecart_100",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

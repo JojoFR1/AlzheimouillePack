@@ -1,0 +1,33 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:lead" },
+        "title": { "translate": "al_adv.move.mount.mount_root.title" },
+        "description": { "translate": "al_adv.move.mount.mount_root.description" },
+        "frame": "challenge",
+
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/move_root",
+    "criteria": {
+        "boat.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "horse.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "minecart.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "pig.complete": {
+            "trigger": "minecraft:impossible"
+        },
+        "strider.complete": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "rewards": {
+        "function": "al_advancements:events/feet_complete"
+    }
+}

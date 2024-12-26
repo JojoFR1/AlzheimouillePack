@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:oak_boat" },
+        "title": { "translate": "al_adv.move.mount.boat_5km.title" },
+        "description": { "translate": "al_adv.move.mount.boat_5km.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/mount/boat/boat_1000",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:vine" },
+        "title": { "translate": "al_adv.move.other.climb_250m.title" },
+        "description": { "translate": "al_adv.move.other.climb_250m.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/other/climb/climb_100",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

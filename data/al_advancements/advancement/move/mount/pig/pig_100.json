@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:carrot" },
+        "title": { "translate": "al_adv.move.mount.pig_100m.title" },
+        "description": { "translate": "al_adv.move.mount.pig_100m.description" },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/mount/mount_root",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+execute if entity @s[advancements={al_advancements:move/mount/minecart/minecart_100=false}, scores={al_move_minecart = 10000..}] run advancement grant @s only al_advancements:move/mount/minecart/minecart_100
+execute if entity @s[advancements={al_advancements:move/mount/minecart/minecart_1000=false}, scores={al_move_minecart = 50000..}] run advancement grant @s only al_advancements:move/mount/minecart/minecart_1000
+execute if entity @s[advancements={al_advancements:move/mount/minecart/minecart_2500=false}, scores={al_move_minecart = 250000..}] run advancement grant @s only al_advancements:move/mount/minecart/minecart_2500
+execute if entity @s[advancements={al_advancements:move/mount/minecart/minecart_5000=false}, scores={al_move_minecart = 500000..}] run advancement grant @s only al_advancements:move/mount/minecart/minecart_5000
+execute if entity @s[advancements={al_advancements:move/mount/minecart/minecart_10000=false}, scores={al_move_minecart = 1000000..}] run advancement grant @s only al_advancements:move/mount/minecart/minecart_10000

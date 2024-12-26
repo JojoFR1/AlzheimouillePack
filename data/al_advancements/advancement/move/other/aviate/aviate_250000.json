@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:elytra" },
+        "title": { "translate": "al_adv.move.other.aviate_250km.title" },
+        "description": { "translate": "al_adv.move.other.aviate_250km.description" },
+        "frame": "goal",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "al_advancements:move/other/aviate/aviate_100000",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
