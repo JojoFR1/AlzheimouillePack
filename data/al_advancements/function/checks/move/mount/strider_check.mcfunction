@@ -1,5 +1,0 @@
-execute if entity @s[advancements={al_advancements:move/mount/strider/strider_100=false}, scores={al_move_strider = 10000..}] run advancement grant @s only al_advancements:move/mount/strider/strider_100
-execute if entity @s[advancements={al_advancements:move/mount/strider/strider_500=false}, scores={al_move_strider = 50000..}] run advancement grant @s only al_advancements:move/mount/strider/strider_500
-execute if entity @s[advancements={al_advancements:move/mount/strider/strider_1000=false}, scores={al_move_strider = 100000..}] run advancement grant @s only al_advancements:move/mount/strider/strider_1000
-execute if entity @s[advancements={al_advancements:move/mount/strider/strider_2500=false}, scores={al_move_strider = 250000..}] run advancement grant @s only al_advancements:move/mount/strider/strider_2500
-execute if entity @s[advancements={al_advancements:move/mount/strider/strider_5000=false}, scores={al_move_strider = 500000..}] run advancement grant @s only al_advancements:move/mount/strider/strider_5000

@@ -1,8 +1,0 @@
-{
-    "criteria": {
-        "end": {
-            "trigger": "minecraft:location"
-        }
-    },
-    "parent": "al_advancements:move/feet/walk/walk_100000"
-}

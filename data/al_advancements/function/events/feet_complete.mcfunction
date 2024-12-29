@@ -1,1 +1,0 @@
-advancement grant @s only al_advancements:move/move_root feet.complete
