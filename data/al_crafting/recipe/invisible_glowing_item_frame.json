@@ -3,18 +3,19 @@
     "pattern": [
         "SSS",
         "SPS",
-        "SSS"
+        "SGS"
     ],
     "key": {
         "S": "stick",
-        "P": "glass_pane"
+        "P": "glass_pane",
+        "G": "glow_ink_sac"
     },
     "result": {
-        "id": "item_frame",
+        "id": "glow_item_frame",
         "components": {
             "item_name": "{\"translate\": \"al_pack.items.invisible_glowing_item_frame.name\", \"fallback\": \"Invisible Glowing Item Frame\", \"italic\": false}",
             "entity_data": {
-                "id": "minecraft:glowing_item_frame",
+                "id": "minecraft:glow_item_frame",
                 "Invisible": true
             }
         },
