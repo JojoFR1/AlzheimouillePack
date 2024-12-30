@@ -1,8 +1,14 @@
 {
     "display": {
         "icon": { "id": "minecraft:diamond" },
-        "title": { "translate": "al_adv.diamond.diamond_200.title" },
-        "description": { "translate": "al_adv.diamond.diamond_200.description" },
+        "title": {
+            "translate": "al_adv.diamond.diamond_200.title",
+            "fallback": "Business is business"
+        },
+        "description": {
+            "translate": "al_adv.diamond.diamond_200.description",
+            "fallback": "Mine two hundred diamond ores."
+        },
         "frame": "challenge",
         
         "announce_to_chat": true,

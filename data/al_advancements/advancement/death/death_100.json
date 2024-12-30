@@ -1,8 +1,14 @@
 {
     "display": {
         "icon": { "id": "minecraft:skeleton_skull" },
-        "title": { "translate": "al_adv.death.death_100.title" },
-        "description": { "translate": "al_adv.death.death_100.description" },
+        "title": {
+            "translate": "al_adv.death.death_100.title",
+            "fallback": "Happy deathiversary!"
+        },
+        "description": {
+            "translate": "al_adv.death.death_100.description",
+            "fallback": "Die one hundred times."
+        },
         "frame": "challenge",
         
         "announce_to_chat": true,

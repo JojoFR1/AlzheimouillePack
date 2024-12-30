@@ -1,8 +1,14 @@
 {
     "display": {
         "icon": { "id": "minecraft:stone_sword" },
-        "title": { "translate": "al_adv.kill.kill_03.title" },
-        "description": { "translate": "al_adv.kill.kill_03.description" },
+        "title": {
+            "translate": "al_adv.kill.kill_03.title",
+            "fallback": "Serial killer"
+        },
+        "description": {
+            "translate": "al_adv.kill.kill_03.description",
+            "fallback": "Kill three players."
+        },
         "frame": "task",
 
         "announce_to_chat": true,

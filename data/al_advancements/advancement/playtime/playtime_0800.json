@@ -1,8 +1,14 @@
 {
     "display": {
         "icon": { "id": "minecraft:clock" },
-        "title": { "translate": "al_adv.playtime.playtime_8hour.title" },
-        "description": { "translate": "al_adv.playtime.playtime_8hour.description" },
+        "title": {
+            "translate": "al_adv.playtime.playtime_8hour.title",
+            "fallback": "A good workday"
+        },
+        "description": {
+            "translate": "al_adv.playtime.playtime_8hour.description",
+            "fallback": "Play for 8 hours."
+        },
         "frame": "task",
 
         "announce_to_chat": true,

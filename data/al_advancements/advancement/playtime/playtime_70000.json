@@ -1,8 +1,14 @@
 {
     "display": {
         "icon": { "id": "minecraft:clock" },
-        "title": { "translate": "al_adv.playtime.playtime_7day.title" },
-        "description": { "translate": "al_adv.playtime.playtime_7day.description" },
+        "title": {
+            "translate": "al_adv.playtime.playtime_7day.title",
+            "fallback": "It's starting to smell bad"
+        },
+        "description": {
+            "translate": "al_adv.playtime.playtime_7day.description",
+            "fallback": "Play for one week."
+        },
         "announce_to_chat": true,
         "show_toast": true,
         "hidden": false,

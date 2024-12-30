@@ -1,8 +1,14 @@
 {
     "display": {
         "icon": { "id": "minecraft:clock" },
-        "title": { "translate": "al_adv.playtime.playtime_72hour.title" },
-        "description": { "translate": "al_adv.playtime.playtime_72hour.description" },
+        "title": {
+            "translate": "al_adv.playtime.playtime_72hour.title",
+            "fallback": "Touch some grass!"
+        },
+        "description": {
+            "translate": "al_adv.playtime.playtime_72hour.description",
+            "fallback": "Play for three days."
+        },
         "frame": "challenge",
         
         "announce_to_chat": true,

@@ -1,8 +1,14 @@
 {
     "display": {
         "icon": { "id": "minecraft:iron_sword" },
-        "title": { "translate": "al_adv.kill.kill_10.title" },
-        "description": { "translate": "al_adv.kill.kill_10.description" },
+        "title": {
+            "translate": "al_adv.kill.kill_10.title",
+            "fallback": "Die!"
+        },
+        "description": {
+            "translate": "al_adv.kill.kill_10.description",
+            "fallback": "Kill ten players."
+        },
         "frame": "task",
 
         "announce_to_chat": true,

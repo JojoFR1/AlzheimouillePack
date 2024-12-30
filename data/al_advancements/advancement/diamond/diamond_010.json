@@ -1,8 +1,14 @@
 {
     "display": {
         "icon": { "id": "minecraft:diamond" },
-        "title": { "translate": "al_adv.diamond.diamond_010.title" },
-        "description": { "translate": "al_adv.diamond.diamond_010.description" },
+        "title": {
+            "translate": "al_adv.diamond.diamond_010.title",
+            "fallback": "Incredible!"
+        },
+        "description": {
+            "translate": "al_adv.diamond.diamond_010.description",
+            "fallback": "Mine ten diamond ores."
+        },
         "frame": "task",
         
         "announce_to_chat": true,
