@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "SSS",
+        "SPS",
+        "SSS"
+    ],
+    "key": {
+        "S": "stick",
+        "P": "glass_pane"
+    },
+    "result": {
+        "id": "item_frame",
+        "components": {
+            "item_name": "{\"translate\": \"al_pack.items.invisible_glowing_item_frame.name\", \"fallback\": \"Invisible Glowing Item Frame\", \"italic\": false}",
+            "entity_data": {
+                "id": "minecraft:glowing_item_frame",
+                "Invisible": true
+            }
+        },
+        "count": 1
+    }
+}
