@@ -6,7 +6,7 @@ Alzheimouille Pack is a datapack (and resource pack) originally meant for a priv
 
 ## Features
 
-Mainly QoL additions and fun things, which are:
+This datapack isn't focused on one thing but more on fun or QoL changes that we liked. Here's a list of the features you can find in this pack:
 
 - Multiple recipes:
   - Added all **Wood** in the stonecutter
@@ -18,11 +18,17 @@ Mainly QoL additions and fun things, which are:
 - Multiple advancements:
   - Number of death
   - Number of kill
-  - Number of diamond mined
+  - Amount of diamond (block) mined (stone and deepslate ore are combined)
   - Total playtime
+
+As for the resource pack, it only offers translation which are:
+- English (default `fallback` if not installed)
+- French
 
 ## Plan
 
-Not much yet but here's a list of things I would like to change or the future:
+Not much yet but here's a list of things I would like to change for the future:
 
-- Make **Invisible Glowing Item Frame** use an **Invisible Item Frame** in the craft - NOT YET POSSIBLE
+- Custom texture for the Invisible frames
+- Make **Invisible Glowing Item Frame** use an **Invisible Item Frame** in the craft - Not possible due to not *yet* being able to use components in input
+- Maybe more advancements type
