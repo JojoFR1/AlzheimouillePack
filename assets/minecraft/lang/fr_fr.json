@@ -1,4 +1,7 @@
 {
+  "al_pack.items.invisible_item_frame.name": "Cadre Invisible",
+  "al_pack.items.invisible_glowing_item_frame.name": "Cadre Luisant Invisible",
+
   "al_adv.root.title": "Alzheimouille Advencements",
   "al_adv.root.description": "",
 
