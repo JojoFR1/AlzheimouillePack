@@ -1,17 +1,17 @@
 {
-    "type": "crafting_shaped",
+    "type": "minecraft:crafting_shaped",
     "pattern": [
         "SSS",
         "SPS",
         "SGS"
     ],
     "key": {
-        "S": "stick",
-        "P": "glass_pane",
-        "G": "glow_ink_sac"
+        "S": "minecraft:stick",
+        "P": "minecraft:glass_pane",
+        "G": "minecraft:glow_ink_sac"
     },
     "result": {
-        "id": "glow_item_frame",
+        "id": "minecraft:glow_item_frame",
         "components": {
             "item_name": "{\"translate\": \"al_pack.items.invisible_glowing_item_frame.name\", \"fallback\": \"Invisible Glowing Item Frame\", \"italic\": false}",
             "entity_data": {

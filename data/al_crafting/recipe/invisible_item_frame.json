@@ -1,16 +1,16 @@
 {
-    "type": "crafting_shaped",
+    "type": "minecraft:crafting_shaped",
     "pattern": [
         "SSS",
         "SPS",
         "SSS"
     ],
     "key": {
-        "S": "stick",
-        "P": "glass_pane"
+        "S": "minecraft:stick",
+        "P": "minecraft:glass_pane"
     },
     "result": {
-        "id": "item_frame",
+        "id": "minecraft:item_frame",
         "components": {
             "item_name": "{\"translate\": \"al_pack.items.invisible_item_frame.name\", \"fallback\": \"Invisible Item Frame\", \"italic\": false}",
             "entity_data": {
