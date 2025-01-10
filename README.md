@@ -8,27 +8,31 @@ Alzheimouille Pack is a datapack (and resource pack) originally meant for a priv
 
 This datapack isn't focused on one thing but more on fun or QoL changes that we liked. Here's a list of the features you can find in this pack:
 
-- Multiple recipes:
+- Multiple recipes (since `v1.7.0` they also get unlocked like vanilla recipe do):
   - Added all **Wood** in the stonecutter
-  - Added a **Sadle** recipe (3 leathers, 2 iron and 2 string in a reversed U shape)
-  - Added a **Name Tag** recipe (5 papers and a string)
-  - New **Invisible Item Frame** recipe (usual craft but with a glass plane instead)
-  - New **Invisible Glowing Item Frame** recipe (usual craft but with a glass plane instead and a glow ink sac at the bottom middle)
+  - Added a **Sadle** recipe
+  - Added a **Name Tag** recipe
   - Added a **Amethyst Block** to **Amethyst Shard** recipe
+  - New **Invisible Item Frame** recipe (usual craft but with a glass plane instead) + custom texture
+  - New **Invisible Glowing Item Frame** recipe (usual craft but with a glass plane instead and a glow ink sac at the bottom middle)
 - Multiple advancements:
   - Number of death
   - Number of kill
   - Amount of diamond (block) mined (stone and deepslate ore are combined)
   - Total playtime
 
-As for the resource pack, it only offers translation which are:
-- English (default `fallback` if not installed)
-- French
+As for the resource pack, the features are:
+- Translations:
+  - English (default `fallback` if not installed)
+  - French
+- Custom item textures:
+  - Invisible Item Frame (item)
 
 ## Plan
 
 Not much yet but here's a list of things I would like to change for the future:
 
-- Custom texture for the Invisible frames
+- Add a custom texture for the **Invisible Glowing Item Frame**
 - Make **Invisible Glowing Item Frame** use an **Invisible Item Frame** in the craft - Not possible due to not *yet* being able to use components in input
-- Maybe more advancements type
+- Make **Invisible (Glowing) Item Frame** drop the custom item instead of standard **Item Frame**
+- Possibly add more advancements type in the future
