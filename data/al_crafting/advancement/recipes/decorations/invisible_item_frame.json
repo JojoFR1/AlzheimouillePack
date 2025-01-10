@@ -1,0 +1,29 @@
+{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_glass_pane": {
+            "conditions": {
+                "items": [{ "items": "minecraft:glass_pane" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_item_frame": {
+            "conditions": {
+                "items": [{ "items": "minecraft:item_frame"}]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "al_crafting:invisible_item_frame"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [[
+        "has_the_recipe",
+        "has_glass_pane",
+        "has_item_frame"
+    ]],
+    "rewards": { "recipes": [ "al_crafting:invisible_item_frame" ] }
+}
