@@ -1,0 +1,24 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "minecraft:cherry_planks" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:cherry/planks/cherry_planks_to_button",
+        "al_crafting:cherry/planks/cherry_planks_to_doors",
+        "al_crafting:cherry/planks/cherry_planks_to_fence",
+        "al_crafting:cherry/planks/cherry_planks_to_fence_gate",
+        "al_crafting:cherry/planks/cherry_planks_to_pressure_plate",
+        "al_crafting:cherry/planks/cherry_planks_to_slabs",
+        "al_crafting:cherry/planks/cherry_planks_to_stair",
+        "al_crafting:cherry/planks/cherry_planks_to_trapdoor"
+    ]}
+}

@@ -1,0 +1,15 @@
+{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_amethyst_block": {
+            "conditions": {
+                "items": [{ "items": "minecraft:amethyst_block"}]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_amethyst_block"
+    ]],
+    "rewards": { "recipes": [ "al_crafting:sadle" ] }
+}

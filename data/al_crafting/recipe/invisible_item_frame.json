@@ -15,7 +15,7 @@
             "item_name": "{\"translate\": \"al_pack.items.invisible_item_frame.name\", \"fallback\": \"Invisible Item Frame\", \"italic\": false}",
             "entity_data": {
                 "id": "minecraft:item_frame",
-                
+                "Tags": ["al_invisible_item_frame"],
                 "Invisible": true
             },
             "item_model": "alzheimouille:invisible_item_frame"

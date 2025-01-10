@@ -1,0 +1,24 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "minecraft:dark_oak_planks" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:dark_oak/planks/dark_oak_planks_to_button",
+        "al_crafting:dark_oak/planks/dark_oak_planks_to_doors",
+        "al_crafting:dark_oak/planks/dark_oak_planks_to_fence",
+        "al_crafting:dark_oak/planks/dark_oak_planks_to_fence_gate",
+        "al_crafting:dark_oak/planks/dark_oak_planks_to_pressure_plate",
+        "al_crafting:dark_oak/planks/dark_oak_planks_to_slabs",
+        "al_crafting:dark_oak/planks/dark_oak_planks_to_stair",
+        "al_crafting:dark_oak/planks/dark_oak_planks_to_trapdoor"
+    ]}
+}

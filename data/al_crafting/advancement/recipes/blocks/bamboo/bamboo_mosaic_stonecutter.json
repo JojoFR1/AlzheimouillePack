@@ -1,0 +1,18 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "minecraft:bamboo_mosaic" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:bamboo/planks/bamboo_mosaic_to_slab_mosaic",
+        "al_crafting:bamboo/planks/bamboo_mosaic_to_stair_mosaic"
+    ]}
+}

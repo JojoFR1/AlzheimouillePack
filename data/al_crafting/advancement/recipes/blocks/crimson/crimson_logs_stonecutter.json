@@ -1,0 +1,25 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "#minecraft:crimson_stems" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:crimson/wood/crimson_wood_to_log",
+        "al_crafting:crimson/wood/crimson_wood_to_planks",
+        "al_crafting:crimson/wood/crimson_wood_to_stripped",
+        "al_crafting:crimson/wood/crimson_stripped_wood_to_log",
+        "al_crafting:crimson/wood/crimson_stripped_wood_to_planks",
+        "al_crafting:crimson/wood/crimson_stripped_wood_to_wood",
+        "al_crafting:crimson/logs/crimson_log_to_planks",
+        "al_crafting:crimson/logs/crimson_log_to_stripped",
+        "al_crafting:crimson/logs/crimson_log_to_wood"
+    ]}
+}

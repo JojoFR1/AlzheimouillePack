@@ -1,0 +1,25 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "#minecraft:jungle_logs" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:jungle/wood/jungle_wood_to_log",
+        "al_crafting:jungle/wood/jungle_wood_to_planks",
+        "al_crafting:jungle/wood/jungle_wood_to_stripped",
+        "al_crafting:jungle/wood/jungle_stripped_wood_to_log",
+        "al_crafting:jungle/wood/jungle_stripped_wood_to_planks",
+        "al_crafting:jungle/wood/jungle_stripped_wood_to_wood",
+        "al_crafting:jungle/logs/jungle_log_to_planks",
+        "al_crafting:jungle/logs/jungle_log_to_stripped",
+        "al_crafting:jungle/logs/jungle_log_to_wood"
+    ]}
+}

@@ -1,0 +1,25 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "#minecraft:cherry_logs" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:cherry/wood/cherry_wood_to_log",
+        "al_crafting:cherry/wood/cherry_wood_to_planks",
+        "al_crafting:cherry/wood/cherry_wood_to_stripped",
+        "al_crafting:cherry/wood/cherry_stripped_wood_to_log",
+        "al_crafting:cherry/wood/cherry_stripped_wood_to_planks",
+        "al_crafting:cherry/wood/cherry_stripped_wood_to_wood",
+        "al_crafting:cherry/logs/cherry_log_to_planks",
+        "al_crafting:cherry/logs/cherry_log_to_stripped",
+        "al_crafting:cherry/logs/cherry_log_to_wood"
+    ]}
+}

@@ -1,0 +1,22 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "#minecraft:bamboo_blocks" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:bamboo/block/bamboo_block_to_mosaic",
+        "al_crafting:bamboo/block/bamboo_block_to_planks",
+        "al_crafting:bamboo/block/bamboo_block_to_stripped",
+        "al_crafting:bamboo/block/bamboo_stripped_block_to_block",
+        "al_crafting:bamboo/block/bamboo_stripped_block_to_mosaic",
+        "al_crafting:bamboo/block/bamboo_stripped_block_to_planks"
+    ]}
+}

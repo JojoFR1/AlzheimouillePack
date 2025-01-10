@@ -12,16 +12,9 @@
                 "items": [{ "items": "minecraft:item_frame"}]
             },
             "trigger": "minecraft:inventory_changed"
-        },
-        "has_the_recipe": {
-            "conditions": {
-                "recipe": "al_crafting:invisible_item_frame"
-            },
-            "trigger": "minecraft:recipe_unlocked"
         }
     },
     "requirements": [[
-        "has_the_recipe",
         "has_glass_pane",
         "has_item_frame"
     ]],

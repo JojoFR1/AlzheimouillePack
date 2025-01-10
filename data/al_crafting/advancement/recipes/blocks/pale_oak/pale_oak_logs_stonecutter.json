@@ -1,0 +1,25 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "#minecraft:pale_oak_logs" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:pale_oak/wood/pale_oak_wood_to_log",
+        "al_crafting:pale_oak/wood/pale_oak_wood_to_planks",
+        "al_crafting:pale_oak/wood/pale_oak_wood_to_stripped",
+        "al_crafting:pale_oak/wood/pale_oak_stripped_wood_to_log",
+        "al_crafting:pale_oak/wood/pale_oak_stripped_wood_to_planks",
+        "al_crafting:pale_oak/wood/pale_oak_stripped_wood_to_wood",
+        "al_crafting:pale_oak/logs/pale_oak_log_to_planks",
+        "al_crafting:pale_oak/logs/pale_oak_log_to_stripped",
+        "al_crafting:pale_oak/logs/pale_oak_log_to_wood"
+    ]}
+}

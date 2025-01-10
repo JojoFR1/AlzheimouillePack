@@ -1,0 +1,25 @@
+﻿{
+    "parent": "al_crafting:recipes/root",
+    "criteria": {
+        "has_wood": {
+            "conditions": {
+                "items": [{ "items": "#minecraft:mangrove_logs" }]
+            },
+            "trigger": "minecraft:inventory_changed"
+        }
+    },
+    "requirements": [[
+        "has_wood"
+    ]],
+    "rewards": { "recipes": [
+        "al_crafting:mangrove/wood/mangrove_wood_to_log",
+        "al_crafting:mangrove/wood/mangrove_wood_to_planks",
+        "al_crafting:mangrove/wood/mangrove_wood_to_stripped",
+        "al_crafting:mangrove/wood/mangrove_stripped_wood_to_log",
+        "al_crafting:mangrove/wood/mangrove_stripped_wood_to_planks",
+        "al_crafting:mangrove/wood/mangrove_stripped_wood_to_wood",
+        "al_crafting:mangrove/logs/mangrove_log_to_planks",
+        "al_crafting:mangrove/logs/mangrove_log_to_stripped",
+        "al_crafting:mangrove/logs/mangrove_log_to_wood"
+    ]}
+}
