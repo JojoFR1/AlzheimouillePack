@@ -7,7 +7,7 @@
         },
         "description": {
             "translate": "al_adv.kill.kill_20.description",
-            "fallback": "Kill twenty players."
+            "fallback": "Kill twenty times a player."
         },
         "frame": "task",
 

@@ -2,6 +2,8 @@
   "al_pack.items.invisible_item_frame.name": "Invisible Item Frame",
   "al_pack.items.invisible_glowing_item_frame.name": "Invisible Glowing Item Frame",
 
+  "al_enchantment.enchantments.auto_smelt.description": "Auto Smelt",
+
   "al_adv.root.title": "Alzheimouille Advencements",
   "al_adv.root.description": "",
 
@@ -38,21 +40,21 @@
   "al_adv.diamond.diamond_500.description": "Mine five hundred diamond ores.",
 
   "al_adv.kill.kill_01.title": "First kill!",
-  "al_adv.kill.kill_01.description": "Kill one player.",
+  "al_adv.kill.kill_01.description": "Kill one time a player.",
   "al_adv.kill.kill_03.title": "Serial killer",
-  "al_adv.kill.kill_03.description": "Kill three players.",
+  "al_adv.kill.kill_03.description": "Kill three times a player.",
   "al_adv.kill.kill_05.title": "Help!",
-  "al_adv.kill.kill_05.description": "Kill five players.",
+  "al_adv.kill.kill_05.description": "Kill five times a player.",
   "al_adv.kill.kill_10.title": "Die!",
-  "al_adv.kill.kill_10.description": "Kill ten players.",
+  "al_adv.kill.kill_10.description": "Kill ten times a player.",
   "al_adv.kill.kill_20.title": "Seek help!",
-  "al_adv.kill.kill_20.description": "Kill twenty players.",
+  "al_adv.kill.kill_20.description": "Kill twenty times a player.",
   "al_adv.kill.kill_30.title": "It's a massacre!",
-  "al_adv.kill.kill_30.description": "Kill thirty players.",
+  "al_adv.kill.kill_30.description": "Kill thirty times a player.",
   "al_adv.kill.kill_40.title": "Cold-blooded murderer",
-  "al_adv.kill.kill_40.description": "Kill forty players.",
+  "al_adv.kill.kill_40.description": "Kill forty times a player.",
   "al_adv.kill.kill_50.title": "Bloodthirsty",
-  "al_adv.kill.kill_50.description": "Kill fifty players.",
+  "al_adv.kill.kill_50.description": "Kill fifty times a player.",
 
   "al_adv.playtime.playtime_1min.title": "The beginning",
   "al_adv.playtime.playtime_1min.description": "Play for one minute.",

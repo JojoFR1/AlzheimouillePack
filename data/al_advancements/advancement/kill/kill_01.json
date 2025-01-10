@@ -7,7 +7,7 @@
         },
         "description": {
             "translate": "al_adv.kill.kill_01.description",
-            "fallback": "Kill one player."
+            "fallback": "Kill one time a player."
         },
         "frame": "task",
 
