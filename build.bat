@@ -1,6 +1,6 @@
 @echo off
 
-set VER="1.7.0"
+set VER="1.7.1"
 set IGNORE=dpack.mcmeta rpack.mcmeta README.md build.bat spyglass.json .gitignore '.git/*' 'build/*'
 
 if exist "build" (
@@ -10,7 +10,7 @@ if exist "build" (
 ) else mkdir "build"
 
 copy dpack.mcmeta pack.mcmeta > nul
-zip -r "build/AlzheimouilleDataPack_%VER%.zip" . -x %IGNORE% 'assets/*'
+zip -r "build/AlzheimouilleDataPack_%VER%.zip" . -x %IGNORE% 'assets/*' 'data/al_enchantment/*' 'data/minecraft/loot_table/*'
 del pack.mcmeta
 
 copy rpack.mcmeta pack.mcmeta > nul
