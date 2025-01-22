@@ -1,10 +1,10 @@
 {
     "display": {
-        "icon": { "id": "minecraft:pink_dye" },
+        "icon": { "id": "minecraft:cyan_dye" },
         "title": {
             "translate": "advancements.alzheimouille.root.title",
             "fallback": "Alzheimouille Advencements",
-            "color": "red",
+            "color": "#1abb9b",
             "bold": true
         },
         "description": "",

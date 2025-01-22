@@ -9,11 +9,18 @@
     "data_pack": {
         "load": ["src"],
         "pack_format": 61,
-        "zipped": false
+        "zipped": true
     },
     "resource_pack": {
         "load": ["src"],
         "pack_format": 46,
-        "zipped": false
-    }
+        "zipped": true
+    },
+
+    "require": [
+        "bolt"
+    ],
+    "pipeline": [
+        "mecha"
+    ]
 }

@@ -2,11 +2,13 @@
 
 ## Project
 
-Alzheimouille Pack is a datapack (and resource pack) originally meant for a private server but it is freely usable if you like it.
+**Alzheimouille** is a datapack (and resource pack) created and used for a small private server but it is freely usable if you want to.
+
+This project uses the (`beet`)[https://github.com/mcbeet/beet/] toolchain that simplify datapack development, as of now it is primarly used for it's building than it's Python abilities.
 
 ## Features
 
-This datapack isn't focused on one thing but more on fun or QoL changes that we liked. Here's a list of the features you can find in this pack:
+This datapack isn't focused on one specific thing but more on fun or QoL changes that we like or want to have. Here's a list of the features you can find in this pack:
 
 - Multiple recipes (since `v1.7.0` they also get unlocked like vanilla recipe do):
   - Added all **Wood** in the stonecutter
@@ -18,12 +20,12 @@ This datapack isn't focused on one thing but more on fun or QoL changes that we 
 - Multiple advancements:
   - Number of death
   - Number of kill
-  - Amount of diamond (block) mined (stone and deepslate ore are combined)
+  - Amount of diamond (block, stone & deepslate) mined
   - Total playtime
 
 As for the resource pack, the features are:
 - Translations:
-  - English (default `fallback` if not installed)
+  - English (default `fallback` if the translation are not available)
   - French
 - Custom item textures:
   - Invisible Item Frame (item)
