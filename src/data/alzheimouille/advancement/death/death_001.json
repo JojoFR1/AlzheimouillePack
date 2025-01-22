@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:skeleton_skull" },
         "title": {
-            "translate": "al_adv.death.death_001.title",
+            "translate": "advancements.alzheimouille.death.death_001.title",
             "fallback": "No hardcore for you"
         },
         "description": {
-            "translate": "al_adv.death.death_001.description",
+            "translate": "advancements.alzheimouille.death.death_001.description",
             "fallback": "Die once."
         },
         "frame": "task",

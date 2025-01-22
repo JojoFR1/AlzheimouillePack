@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,14 +12,14 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:jungle/wood/jungle_wood_to_log",
-        "al_crafting:jungle/wood/jungle_wood_to_planks",
-        "al_crafting:jungle/wood/jungle_wood_to_stripped",
-        "al_crafting:jungle/wood/jungle_stripped_wood_to_log",
-        "al_crafting:jungle/wood/jungle_stripped_wood_to_planks",
-        "al_crafting:jungle/wood/jungle_stripped_wood_to_wood",
-        "al_crafting:jungle/logs/jungle_log_to_planks",
-        "al_crafting:jungle/logs/jungle_log_to_stripped",
-        "al_crafting:jungle/logs/jungle_log_to_wood"
+        "alzheimouille:jungle/wood/jungle_wood_to_log",
+        "alzheimouille:jungle/wood/jungle_wood_to_planks",
+        "alzheimouille:jungle/wood/jungle_wood_to_stripped",
+        "alzheimouille:jungle/wood/jungle_stripped_wood_to_log",
+        "alzheimouille:jungle/wood/jungle_stripped_wood_to_planks",
+        "alzheimouille:jungle/wood/jungle_stripped_wood_to_wood",
+        "alzheimouille:jungle/logs/jungle_log_to_planks",
+        "alzheimouille:jungle/logs/jungle_log_to_stripped",
+        "alzheimouille:jungle/logs/jungle_log_to_wood"
     ]}
 }

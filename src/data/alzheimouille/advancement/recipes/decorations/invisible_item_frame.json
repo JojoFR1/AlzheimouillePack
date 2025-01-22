@@ -1,5 +1,5 @@
 {
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_glass_pane": {
             "conditions": {
@@ -18,5 +18,5 @@
         "has_glass_pane",
         "has_item_frame"
     ]],
-    "rewards": { "recipes": [ "al_crafting:invisible_item_frame" ] }
+    "rewards": { "recipes": [ "alzheimouille:invisible_item_frame" ] }
 }

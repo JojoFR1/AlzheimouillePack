@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,13 +12,13 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:birch/planks/birch_planks_to_button",
-        "al_crafting:birch/planks/birch_planks_to_doors",
-        "al_crafting:birch/planks/birch_planks_to_fence",
-        "al_crafting:birch/planks/birch_planks_to_fence_gate",
-        "al_crafting:birch/planks/birch_planks_to_pressure_plate",
-        "al_crafting:birch/planks/birch_planks_to_slabs",
-        "al_crafting:birch/planks/birch_planks_to_stair",
-        "al_crafting:birch/planks/birch_planks_to_trapdoor"
+        "alzheimouille:birch/planks/birch_planks_to_button",
+        "alzheimouille:birch/planks/birch_planks_to_doors",
+        "alzheimouille:birch/planks/birch_planks_to_fence",
+        "alzheimouille:birch/planks/birch_planks_to_fence_gate",
+        "alzheimouille:birch/planks/birch_planks_to_pressure_plate",
+        "alzheimouille:birch/planks/birch_planks_to_slabs",
+        "alzheimouille:birch/planks/birch_planks_to_stair",
+        "alzheimouille:birch/planks/birch_planks_to_trapdoor"
     ]}
 }

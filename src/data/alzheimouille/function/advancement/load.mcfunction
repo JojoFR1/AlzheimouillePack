@@ -11,4 +11,4 @@ scoreboard objectives add al_diamond_total dummy
 scoreboard objectives add al_kill playerKillCount
 scoreboard objectives add al_playtime minecraft.custom:play_time
 
-schedule function alzheimouille:check 5s
+schedule function alzheimouille:advancement/check 5s

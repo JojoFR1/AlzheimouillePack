@@ -1,5 +1,5 @@
 {
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,14 +12,14 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:oak/wood/oak_wood_to_log",
-        "al_crafting:oak/wood/oak_wood_to_planks",
-        "al_crafting:oak/wood/oak_wood_to_stripped",
-        "al_crafting:oak/wood/oak_stripped_wood_to_log",
-        "al_crafting:oak/wood/oak_stripped_wood_to_planks",
-        "al_crafting:oak/wood/oak_stripped_wood_to_wood",
-        "al_crafting:oak/logs/oak_log_to_planks",
-        "al_crafting:oak/logs/oak_log_to_stripped",
-        "al_crafting:oak/logs/oak_log_to_wood"
+        "alzheimouille:oak/wood/oak_wood_to_log",
+        "alzheimouille:oak/wood/oak_wood_to_planks",
+        "alzheimouille:oak/wood/oak_wood_to_stripped",
+        "alzheimouille:oak/wood/oak_stripped_wood_to_log",
+        "alzheimouille:oak/wood/oak_stripped_wood_to_planks",
+        "alzheimouille:oak/wood/oak_stripped_wood_to_wood",
+        "alzheimouille:oak/logs/oak_log_to_planks",
+        "alzheimouille:oak/logs/oak_log_to_stripped",
+        "alzheimouille:oak/logs/oak_log_to_wood"
     ]}
 }

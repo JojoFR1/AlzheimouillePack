@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,14 +12,14 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:crimson/wood/crimson_wood_to_log",
-        "al_crafting:crimson/wood/crimson_wood_to_planks",
-        "al_crafting:crimson/wood/crimson_wood_to_stripped",
-        "al_crafting:crimson/wood/crimson_stripped_wood_to_log",
-        "al_crafting:crimson/wood/crimson_stripped_wood_to_planks",
-        "al_crafting:crimson/wood/crimson_stripped_wood_to_wood",
-        "al_crafting:crimson/logs/crimson_log_to_planks",
-        "al_crafting:crimson/logs/crimson_log_to_stripped",
-        "al_crafting:crimson/logs/crimson_log_to_wood"
+        "alzheimouille:crimson/wood/crimson_wood_to_log",
+        "alzheimouille:crimson/wood/crimson_wood_to_planks",
+        "alzheimouille:crimson/wood/crimson_wood_to_stripped",
+        "alzheimouille:crimson/wood/crimson_stripped_wood_to_log",
+        "alzheimouille:crimson/wood/crimson_stripped_wood_to_planks",
+        "alzheimouille:crimson/wood/crimson_stripped_wood_to_wood",
+        "alzheimouille:crimson/logs/crimson_log_to_planks",
+        "alzheimouille:crimson/logs/crimson_log_to_stripped",
+        "alzheimouille:crimson/logs/crimson_log_to_wood"
     ]}
 }

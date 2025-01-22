@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:netherite_sword" },
         "title": {
-            "translate": "al_adv.kill.kill_100.title",
+            "translate": "advancements.alzheimouille.kill.kill_100.title",
             "fallback": "Bloodbath"
         },
         "description": {
-            "translate": "al_adv.kill.kill_100.description",
+            "translate": "advancements.alzheimouille.kill.kill_100.description",
             "fallback": "Kill one hundred times a player."
         },
         "frame": "goal",

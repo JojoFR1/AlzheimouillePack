@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,13 +12,13 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:spruce/planks/spruce_planks_to_button",
-        "al_crafting:spruce/planks/spruce_planks_to_doors",
-        "al_crafting:spruce/planks/spruce_planks_to_fence",
-        "al_crafting:spruce/planks/spruce_planks_to_fence_gate",
-        "al_crafting:spruce/planks/spruce_planks_to_pressure_plate",
-        "al_crafting:spruce/planks/spruce_planks_to_slabs",
-        "al_crafting:spruce/planks/spruce_planks_to_stair",
-        "al_crafting:spruce/planks/spruce_planks_to_trapdoor"
+        "alzheimouille:spruce/planks/spruce_planks_to_button",
+        "alzheimouille:spruce/planks/spruce_planks_to_doors",
+        "alzheimouille:spruce/planks/spruce_planks_to_fence",
+        "alzheimouille:spruce/planks/spruce_planks_to_fence_gate",
+        "alzheimouille:spruce/planks/spruce_planks_to_pressure_plate",
+        "alzheimouille:spruce/planks/spruce_planks_to_slabs",
+        "alzheimouille:spruce/planks/spruce_planks_to_stair",
+        "alzheimouille:spruce/planks/spruce_planks_to_trapdoor"
     ]}
 }

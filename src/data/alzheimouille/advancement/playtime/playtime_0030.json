@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:clock" },
         "title": {
-            "translate": "al_adv.playtime.playtime_30min.title",
+            "translate": "advancements.alzheimouille.playtime.playtime_30min.title",
             "fallback": "A good start"
         },
         "description": {
-            "translate": "al_adv.playtime.playtime_30min.description",
+            "translate": "advancements.alzheimouille.playtime.playtime_30min.description",
             "fallback": "Play for thirty minutes."
         },
         "frame": "task",

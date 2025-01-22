@@ -1,5 +1,5 @@
 {
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_paper": {
             "conditions": {
@@ -18,5 +18,5 @@
         "has_paper",
         "has_string"
     ]],
-    "rewards": { "recipes": [ "al_crafting:name_tag" ] }
+    "rewards": { "recipes": [ "alzheimouille:name_tag" ] }
 }

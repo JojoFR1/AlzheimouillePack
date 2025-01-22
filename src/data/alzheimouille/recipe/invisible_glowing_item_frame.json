@@ -13,7 +13,7 @@
     "result": {
         "id": "minecraft:glow_item_frame",
         "components": {
-            "item_name": "{\"translate\": \"al_pack.items.invisible_glowing_item_frame.name\", \"fallback\": \"Invisible Glowing Item Frame\", \"italic\": false}",
+            "item_name": "{\"translate\": \"item.alzheimouille..invisible_glowing_item_frame.name\", \"fallback\": \"Invisible Glowing Item Frame\", \"italic\": false}",
             "entity_data": {
                 "id": "minecraft:glow_item_frame",
                 "Tags": ["al_invisible_glowing_item_frame"],

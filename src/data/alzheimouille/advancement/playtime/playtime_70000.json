@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:clock" },
         "title": {
-            "translate": "al_adv.playtime.playtime_7day.title",
+            "translate": "advancements.alzheimouille.playtime.playtime_7day.title",
             "fallback": "It's starting to smell bad"
         },
         "description": {
-            "translate": "al_adv.playtime.playtime_7day.description",
+            "translate": "advancements.alzheimouille.playtime.playtime_7day.description",
             "fallback": "Play for one week."
         },
         "announce_to_chat": true,

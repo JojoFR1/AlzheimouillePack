@@ -1,0 +1,13 @@
+scoreboard objectives remove al_death
+
+scoreboard objectives remove al_diamond_stone
+scoreboard objectives remove al_diamond_deepslate
+scoreboard objectives remove al_diamond
+scoreboard objectives remove al_diamond_stone
+scoreboard objectives remove al_diamond_deepslate_placed
+scoreboard objectives remove al_diamond_placed
+
+scoreboard objectives remove al_kill
+scoreboard objectives remove al_playtime
+
+schedule clear alzheimouille:advancement/check

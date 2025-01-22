@@ -1,5 +1,5 @@
 {
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_invisible_item_frame": {
             "conditions": {
@@ -7,7 +7,7 @@
                     {
                         "items": "minecraft:item_frame",
                         "components": {
-                            "item_name": "{\"translate\": \"al_pack.items.invisible_item_frame.name\", \"fallback\": \"Invisible Item Frame\", \"italic\": false}",
+                            "item_name": "{\"translate\": \"item.alzheimouille..invisible_item_frame.name\", \"fallback\": \"Invisible Item Frame\", \"italic\": false}",
                             "entity_data": {
                                 "id": "minecraft:item_frame",
                                 "Tags": ["al_invisible_item_frame"],
@@ -31,5 +31,5 @@
         "has_invisible_item_frame",
         "has_glow_ink_sac"
     ]],
-    "rewards": { "recipes": [ "al_crafting:invisible_glowing_item_frame" ] }
+    "rewards": { "recipes": [ "alzheimouille:invisible_glowing_item_frame" ] }
 }

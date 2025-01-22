@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:stone_sword" },
         "title": {
-            "translate": "al_adv.kill.kill_05.title",
+            "translate": "advancements.alzheimouille.kill.kill_05.title",
             "fallback": "Help!"
         },
         "description": {
-            "translate": "al_adv.kill.kill_05.description",
+            "translate": "advancements.alzheimouille.kill.kill_05.description",
             "fallback": "Kill five times a player."
         },
         "frame": "task",

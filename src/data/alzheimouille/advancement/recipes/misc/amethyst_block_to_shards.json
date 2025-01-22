@@ -1,5 +1,5 @@
 {
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_amethyst_block": {
             "conditions": {
@@ -11,5 +11,5 @@
     "requirements": [[
         "has_amethyst_block"
     ]],
-    "rewards": { "recipes": [ "al_crafting:sadle" ] }
+    "rewards": { "recipes": [ "alzheimouille:sadle" ] }
 }

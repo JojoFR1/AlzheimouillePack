@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,13 +12,13 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:mangrove/planks/mangrove_planks_to_button",
-        "al_crafting:mangrove/planks/mangrove_planks_to_doors",
-        "al_crafting:mangrove/planks/mangrove_planks_to_fence",
-        "al_crafting:mangrove/planks/mangrove_planks_to_fence_gate",
-        "al_crafting:mangrove/planks/mangrove_planks_to_pressure_plate",
-        "al_crafting:mangrove/planks/mangrove_planks_to_slabs",
-        "al_crafting:mangrove/planks/mangrove_planks_to_stair",
-        "al_crafting:mangrove/planks/mangrove_planks_to_trapdoor"
+        "alzheimouille:mangrove/planks/mangrove_planks_to_button",
+        "alzheimouille:mangrove/planks/mangrove_planks_to_doors",
+        "alzheimouille:mangrove/planks/mangrove_planks_to_fence",
+        "alzheimouille:mangrove/planks/mangrove_planks_to_fence_gate",
+        "alzheimouille:mangrove/planks/mangrove_planks_to_pressure_plate",
+        "alzheimouille:mangrove/planks/mangrove_planks_to_slabs",
+        "alzheimouille:mangrove/planks/mangrove_planks_to_stair",
+        "alzheimouille:mangrove/planks/mangrove_planks_to_trapdoor"
     ]}
 }

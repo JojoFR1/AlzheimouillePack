@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:clock" },
         "title": {
-            "translate": "al_adv.playtime.playtime_48hour.title",
+            "translate": "advancements.alzheimouille.playtime.playtime_48hour.title",
             "fallback": "Sleep? Never heard of it."
         },
         "description": {
-            "translate": "al_adv.playtime.playtime_48hour.description",
+            "translate": "advancements.alzheimouille.playtime.playtime_48hour.description",
             "fallback": "Play for two days."
         },
         "frame": "challenge",

@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,15 +12,15 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:bamboo/planks/bamboo_planks_to_button",
-        "al_crafting:bamboo/planks/bamboo_planks_to_doors",
-        "al_crafting:bamboo/planks/bamboo_planks_to_fence",
-        "al_crafting:bamboo/planks/bamboo_planks_to_fence_gate",
-        "al_crafting:bamboo/planks/bamboo_planks_to_pressure_plate",
-        "al_crafting:bamboo/planks/bamboo_planks_to_slabs",
-        "al_crafting:bamboo/planks/bamboo_planks_to_slabs_mosaic",
-        "al_crafting:bamboo/planks/bamboo_planks_to_stair",
-        "al_crafting:bamboo/planks/bamboo_planks_to_stair_mosaic",
-        "al_crafting:bamboo/planks/bamboo_planks_to_trapdoor"
+        "alzheimouille:bamboo/planks/bamboo_planks_to_button",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_doors",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_fence",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_fence_gate",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_pressure_plate",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_slabs",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_slabs_mosaic",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_stair",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_stair_mosaic",
+        "alzheimouille:bamboo/planks/bamboo_planks_to_trapdoor"
     ]}
 }

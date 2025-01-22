@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:iron_sword" },
         "title": {
-            "translate": "al_adv.kill.kill_10.title",
+            "translate": "advancements.alzheimouille.kill.kill_10.title",
             "fallback": "Die!"
         },
         "description": {
-            "translate": "al_adv.kill.kill_10.description",
+            "translate": "advancements.alzheimouille.kill.kill_10.description",
             "fallback": "Kill ten times a player."
         },
         "frame": "task",

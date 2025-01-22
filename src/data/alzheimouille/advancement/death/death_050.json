@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:skeleton_skull" },
         "title": {
-            "translate": "al_adv.death.death_050.title",
+            "translate": "advancements.alzheimouille.death.death_050.title",
             "fallback": "It's just a flesh wound!"
         },
         "description": {
-            "translate": "al_adv.death.death_050.description",
+            "translate": "advancements.alzheimouille.death.death_050.description",
             "fallback": "Die fifty times."
         },
         "frame": "challenge",

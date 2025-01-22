@@ -1,3 +1,3 @@
-execute as @a run function alzheimouille:checks/all_check
+execute as @a run function alzheimouille:advancement/checks/all_check
 
-schedule function alzheimouille:check 5s
+schedule function alzheimouille:advancement/check 5s

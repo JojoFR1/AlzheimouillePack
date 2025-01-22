@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,14 +12,14 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:cherry/wood/cherry_wood_to_log",
-        "al_crafting:cherry/wood/cherry_wood_to_planks",
-        "al_crafting:cherry/wood/cherry_wood_to_stripped",
-        "al_crafting:cherry/wood/cherry_stripped_wood_to_log",
-        "al_crafting:cherry/wood/cherry_stripped_wood_to_planks",
-        "al_crafting:cherry/wood/cherry_stripped_wood_to_wood",
-        "al_crafting:cherry/logs/cherry_log_to_planks",
-        "al_crafting:cherry/logs/cherry_log_to_stripped",
-        "al_crafting:cherry/logs/cherry_log_to_wood"
+        "alzheimouille:cherry/wood/cherry_wood_to_log",
+        "alzheimouille:cherry/wood/cherry_wood_to_planks",
+        "alzheimouille:cherry/wood/cherry_wood_to_stripped",
+        "alzheimouille:cherry/wood/cherry_stripped_wood_to_log",
+        "alzheimouille:cherry/wood/cherry_stripped_wood_to_planks",
+        "alzheimouille:cherry/wood/cherry_stripped_wood_to_wood",
+        "alzheimouille:cherry/logs/cherry_log_to_planks",
+        "alzheimouille:cherry/logs/cherry_log_to_stripped",
+        "alzheimouille:cherry/logs/cherry_log_to_wood"
     ]}
 }

@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,14 +12,14 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:pale_oak/wood/pale_oak_wood_to_log",
-        "al_crafting:pale_oak/wood/pale_oak_wood_to_planks",
-        "al_crafting:pale_oak/wood/pale_oak_wood_to_stripped",
-        "al_crafting:pale_oak/wood/pale_oak_stripped_wood_to_log",
-        "al_crafting:pale_oak/wood/pale_oak_stripped_wood_to_planks",
-        "al_crafting:pale_oak/wood/pale_oak_stripped_wood_to_wood",
-        "al_crafting:pale_oak/logs/pale_oak_log_to_planks",
-        "al_crafting:pale_oak/logs/pale_oak_log_to_stripped",
-        "al_crafting:pale_oak/logs/pale_oak_log_to_wood"
+        "alzheimouille:pale_oak/wood/pale_oak_wood_to_log",
+        "alzheimouille:pale_oak/wood/pale_oak_wood_to_planks",
+        "alzheimouille:pale_oak/wood/pale_oak_wood_to_stripped",
+        "alzheimouille:pale_oak/wood/pale_oak_stripped_wood_to_log",
+        "alzheimouille:pale_oak/wood/pale_oak_stripped_wood_to_planks",
+        "alzheimouille:pale_oak/wood/pale_oak_stripped_wood_to_wood",
+        "alzheimouille:pale_oak/logs/pale_oak_log_to_planks",
+        "alzheimouille:pale_oak/logs/pale_oak_log_to_stripped",
+        "alzheimouille:pale_oak/logs/pale_oak_log_to_wood"
     ]}
 }

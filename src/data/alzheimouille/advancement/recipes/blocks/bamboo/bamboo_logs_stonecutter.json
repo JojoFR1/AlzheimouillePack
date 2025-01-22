@@ -1,5 +1,5 @@
 ﻿{
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_wood": {
             "conditions": {
@@ -12,11 +12,11 @@
         "has_wood"
     ]],
     "rewards": { "recipes": [
-        "al_crafting:bamboo/block/bamboo_block_to_mosaic",
-        "al_crafting:bamboo/block/bamboo_block_to_planks",
-        "al_crafting:bamboo/block/bamboo_block_to_stripped",
-        "al_crafting:bamboo/block/bamboo_stripped_block_to_block",
-        "al_crafting:bamboo/block/bamboo_stripped_block_to_mosaic",
-        "al_crafting:bamboo/block/bamboo_stripped_block_to_planks"
+        "alzheimouille:bamboo/block/bamboo_block_to_mosaic",
+        "alzheimouille:bamboo/block/bamboo_block_to_planks",
+        "alzheimouille:bamboo/block/bamboo_block_to_stripped",
+        "alzheimouille:bamboo/block/bamboo_stripped_block_to_block",
+        "alzheimouille:bamboo/block/bamboo_stripped_block_to_mosaic",
+        "alzheimouille:bamboo/block/bamboo_stripped_block_to_planks"
     ]}
 }

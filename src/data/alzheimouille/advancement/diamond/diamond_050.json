@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:diamond" },
         "title": {
-            "translate": "al_adv.diamond.diamond_050.title",
+            "translate": "advancements.alzheimouille.diamond.diamond_050.title",
             "fallback": "A Swiss minimum wage"
         },
         "description": {
-            "translate": "al_adv.diamond.diamond_050.description",
+            "translate": "advancements.alzheimouille.diamond.diamond_050.description",
             "fallback": "Mine fifty diamond ores."
         },
         "frame": "task",

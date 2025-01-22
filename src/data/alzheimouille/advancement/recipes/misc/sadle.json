@@ -1,5 +1,5 @@
 {
-    "parent": "al_crafting:recipes/root",
+    "parent": "alzheimouille:recipes/root",
     "criteria": {
         "has_leather": {
             "conditions": {
@@ -25,5 +25,5 @@
         "has_iron_ingot",
         "has_string"
     ]],
-    "rewards": { "recipes": [ "al_crafting:sadle" ] }
+    "rewards": { "recipes": [ "alzheimouille:sadle" ] }
 }

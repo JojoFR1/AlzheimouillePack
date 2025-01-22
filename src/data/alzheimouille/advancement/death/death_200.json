@@ -2,11 +2,11 @@
     "display": {
         "icon": { "id": "minecraft:wither_skeleton_skull" },
         "title": {
-            "translate": "al_adv.death.death_200.title",
+            "translate": "advancements.alzheimouille.death.death_200.title",
             "fallback": "Git gud"
         },
         "description": {
-            "translate": "al_adv.death.death_200.description",
+            "translate": "advancements.alzheimouille.death.death_200.description",
             "fallback": "Die two hundred times."
         },
         "frame": "challenge",
