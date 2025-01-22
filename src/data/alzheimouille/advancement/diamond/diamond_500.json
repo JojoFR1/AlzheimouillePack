@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:diamond" },
+        "title": {
+            "translate": "al_adv.diamond.diamond_500.title",
+            "fallback": "Stonks"
+        },
+        "description": {
+            "translate": "al_adv.diamond.diamond_500.description",
+            "fallback": "Mine five hundred diamond ores."
+        },
+        "frame": "goal",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "alzheimouille:diamond/diamond_200",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

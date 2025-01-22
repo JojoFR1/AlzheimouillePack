@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:clock" },
+        "title": {
+            "translate": "al_adv.playtime.playtime_48hour.title",
+            "fallback": "Sleep? Never heard of it."
+        },
+        "description": {
+            "translate": "al_adv.playtime.playtime_48hour.description",
+            "fallback": "Play for two days."
+        },
+        "frame": "challenge",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "alzheimouille:playtime/playtime_2400",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

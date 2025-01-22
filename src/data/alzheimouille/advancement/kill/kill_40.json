@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:diamond_sword" },
+        "title": {
+            "translate": "al_adv.kill.kill_40.title",
+            "fallback": "Cold-blooded murderer"
+        },
+        "description": {
+            "translate": "al_adv.kill.kill_40.description",
+            "fallback": "Kill forty times a player."
+        },
+        "frame": "challenge",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "alzheimouille:kill/kill_30",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

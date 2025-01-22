@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:wooden_sword" },
+        "title": {
+            "translate": "al_adv.kill.kill_01.title",
+            "fallback": "First kill!"
+        },
+        "description": {
+            "translate": "al_adv.kill.kill_01.description",
+            "fallback": "Kill one time a player."
+        },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "alzheimouille:root",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

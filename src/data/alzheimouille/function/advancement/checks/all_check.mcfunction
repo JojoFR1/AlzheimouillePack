@@ -1,0 +1,4 @@
+function alzheimouille:checks/death_check
+function alzheimouille:checks/diamond_check
+function alzheimouille:checks/kill_check
+function alzheimouille:checks/playtime_check

@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:clock" },
+        "title": {
+            "translate": "al_adv.playtime.playtime_14day.title",
+            "fallback": "Go take a shower!"
+        },
+        "description": {
+            "translate": "al_adv.playtime.playtime_14day.description",
+            "fallback": "Play for two weeks."
+        },
+        "frame": "goal",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "alzheimouille:playtime/playtime_70000",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

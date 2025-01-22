@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:netherite_sword" },
+        "title": {
+            "translate": "al_adv.kill.kill_100.title",
+            "fallback": "Bloodbath"
+        },
+        "description": {
+            "translate": "al_adv.kill.kill_100.description",
+            "fallback": "Kill one hundred times a player."
+        },
+        "frame": "goal",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "alzheimouille:kill/kill_50",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

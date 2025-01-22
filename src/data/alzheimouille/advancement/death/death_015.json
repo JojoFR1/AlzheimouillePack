@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:skeleton_skull" },
+        "title": {
+            "translate": "al_adv.death.death_015.title",
+            "fallback": "You'll get over it"
+        },
+        "description": {
+            "translate": "al_adv.death.death_015.description",
+            "fallback": "Die fifteen times."
+        },
+        "frame": "task",
+        
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "alzheimouille:death/death_005",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

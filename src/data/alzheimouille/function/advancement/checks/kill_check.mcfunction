@@ -1,0 +1,9 @@
+execute if entity @s[advancements={alzheimouille:kill/kill_01=false}, scores={al_kill = 1..}] run advancement grant @s only alzheimouille:kill/kill_01
+execute if entity @s[advancements={alzheimouille:kill/kill_03=false}, scores={al_kill = 3..}] run advancement grant @s only alzheimouille:kill/kill_03
+execute if entity @s[advancements={alzheimouille:kill/kill_05=false}, scores={al_kill = 5..}] run advancement grant @s only alzheimouille:kill/kill_05
+execute if entity @s[advancements={alzheimouille:kill/kill_10=false}, scores={al_kill = 10..}] run advancement grant @s only alzheimouille:kill/kill_10
+execute if entity @s[advancements={alzheimouille:kill/kill_20=false}, scores={al_kill = 20..}] run advancement grant @s only alzheimouille:kill/kill_20
+execute if entity @s[advancements={alzheimouille:kill/kill_30=false}, scores={al_kill = 30..}] run advancement grant @s only alzheimouille:kill/kill_30
+execute if entity @s[advancements={alzheimouille:kill/kill_40=false}, scores={al_kill = 40..}] run advancement grant @s only alzheimouille:kill/kill_40
+execute if entity @s[advancements={alzheimouille:kill/kill_50=false}, scores={al_kill = 50..}] run advancement grant @s only alzheimouille:kill/kill_50
+execute if entity @s[advancements={alzheimouille:kill/kill_100=false}, scores={al_kill = 100..}] run advancement grant @s only alzheimouille:kill/kill_100

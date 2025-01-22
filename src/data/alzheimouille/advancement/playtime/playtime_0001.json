@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": { "id": "minecraft:clock" },
+        "title": {
+            "translate": "al_adv.playtime.playtime_1min.title",
+            "fallback": "The beginning"
+        },
+        "description": {
+            "translate": "al_adv.playtime.playtime_1min.description",
+            "fallback": "Play for one minute."
+        },
+        "frame": "task",
+
+        "announce_to_chat": true,
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "alzheimouille:root",
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "AlzheimouillePack",
+    "description": "The custom pack for the Familly!",
+    "author": "Jojo",
+    "version": "1.8.0-beta",
+
+    "data_pack": {
+        "load": ["src"],
+        "pack_format": 61,
+        "zipped": false
+    },
+    "resource_pack": {
+        "load": ["src"],
+        "pack_format": 46,
+        "zipped": false
+    },
+
+    
+
+
+    "output": "build"
+}
