@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [ "minecraft:mud" ],
+    "result": {
+        "id": "minecraft:dirt",
+        "count": 1
+    }
+}

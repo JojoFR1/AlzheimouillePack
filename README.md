@@ -17,6 +17,9 @@ This datapack isn't focused on one specific thing but more on fun or QoL changes
   - Added a **Amethyst Block** to **Amethyst Shard** recipe
   - New **Invisible Item Frame** recipe (usual craft but with a glass plane instead) + custom texture
   - New **Invisible Glowing Item Frame** recipe (usual craft but with a glass plane instead and a glow ink sac at the bottom middle)
+  - New **Mud** to **Dirt** recipe
+  - New (any) **Dirt** to **Mud** recipe (just throw the dirt in the water!)
+  - New (any) **Dirt** to **Grass Block** (by using bone meal in craft!)
 - Multiple advancements:
   - Number of death
   - Number of kill

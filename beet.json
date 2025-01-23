@@ -3,6 +3,7 @@
     "description": "The custom pack for the Familly!",
     "author": "Jojo",
     "version": "1.8.0-beta",
+    "id": "alzheimouille",
 
     "output": "build",
 

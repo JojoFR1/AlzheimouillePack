@@ -16,7 +16,7 @@
             "item_name": "{\"translate\": \"item.alzheimouille..invisible_glowing_item_frame.name\", \"fallback\": \"Invisible Glowing Item Frame\", \"italic\": false}",
             "entity_data": {
                 "id": "minecraft:glow_item_frame",
-                "Tags": ["al_invisible_glowing_item_frame"],
+                "Tags": ["alzheimouille.entity.invisible_glowing_item_frame"],
                 "Invisible": true
             }
         },

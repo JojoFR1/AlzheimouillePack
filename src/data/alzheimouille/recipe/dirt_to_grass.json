@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [ "#minecraft:dirt", "minecraft:bone_meal" ],
+    "result": {
+        "id": "minecraft:grass_block",
+        "count": 1
+    }
+}
