@@ -4,7 +4,7 @@
 
 **Alzheimouille** is a datapack (and resource pack) created and used for a small private server but it is freely usable if you want to.
 
-This project uses the (`beet`)[https://github.com/mcbeet/beet/] toolchain that simplify datapack development, as of now it is primarly used for it's building than it's Python abilities.
+This project uses the [`beet`](https://github.com/mcbeet/beet/) toolchain that simplify and improve datapack development.
 
 ## Features
 
